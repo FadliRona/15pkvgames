@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://cahayaqq.agapow.net/sitemap.xml
+Sitemap: https://cahayaqq.agapow.net/sitemap.xml
